@@ -1,5 +1,5 @@
 {
-  "name": "My-porfolio",
+  "name": "My-portfolio",
   "short_name": "Me",
   "description": "Create Portfolio Giorgio Mazzuca",
   "start_url": "/",
@@ -8,7 +8,7 @@
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/me.png",
+      "src": "./me.png",
       "type": "image/png",
       "sizes": "192x192"
     }
